@@ -2,7 +2,7 @@
   "name": "goIt-news-team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://KovalenkoMaks.github.io/goIt-news-team-project",
+  "homepage": "https://AntonRoston.github.io/goIt-news-team-project",
   "scripts": {
     "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /goIt-news-team-project/"
